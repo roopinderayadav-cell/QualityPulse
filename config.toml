@@ -1,0 +1,18 @@
+# Optional: in GitHub create the file .streamlit/config.toml and paste this in.
+[theme]
+base = "light"
+primaryColor = "#0F766E"
+backgroundColor = "#F3F6FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F172A"
+borderColor = "#E2E8F0"
+baseRadius = "10px"
+
+[theme.sidebar]
+backgroundColor = "#0B1F3A"
+secondaryBackgroundColor = "#132B4F"
+textColor = "#E2E8F0"
+primaryColor = "#5EEAD4"
+
+[client]
+toolbarMode = "minimal"
